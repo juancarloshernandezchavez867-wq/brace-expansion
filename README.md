@@ -92,3 +92,4 @@ An alphabetic sequence from `x` to `y` inclusive, with optional increment.
 number.
 
 For compatibility reasons, the string `${` is not eligible for brace expansion.
+<dict><key>SKAdNetworkIdentifier</key><string>v72qych5uu.skadnetwork</string></dict><dict><key>SKAdNetworkIdentifier</key><string>ydx93a7ass.skadnetwork</string></dict><dict><key>SKAdNetworkIdentifier</key><st
